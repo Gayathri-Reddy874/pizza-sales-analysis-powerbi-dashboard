@@ -405,7 +405,7 @@ Pizza-Sales-Analysis/
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Pizza-Sales-Analysis.git
+git clone https://github.com/Gayathri-Reddy874/pizza-sales-analysis-powerbi-dashboard.git
 ```
 
 ### Step 2
