@@ -82,13 +82,13 @@ to provide executive-level business insights.
 
 # 📊 Dashboard Preview
 
-## Home Dashboard
+### Home Dashboard
 
-![Home Dashboard](Home Dashboard.png)
+![alt text](<Home Dashboard.png>)
 
-## Best & Worst Sellers Dashboard
+### Best & Worst Sellers Dashboard
 
-![Best & Worst Sellers Dashboard](Best Worst Sellers Dashboard.png)
+![alt text](<Best Worst Sellers Dashboard.png>)
 
 ---
 
